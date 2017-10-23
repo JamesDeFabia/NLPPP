@@ -1,0 +1,14 @@
+# hello
+tokenize	nil	# Gen:   Convert input to token list.
+pat	kb	# comment
+pat	functions	# comment
+pat	tags	# comment
+pat	zones	# comment
+pat	zones2	# comment
+pat	noTrans	# comment
+pat	noTrans2	# Copy of tagNoTrans
+pat	noTrans3	# Copy of tagNoTrans2
+pat	noTrans4	# Copy of noTrans3
+pat	splice	# comment
+pat	normal	# comment
+pat	output	# comment
